@@ -35,3 +35,26 @@ When contacting support, provide:
 - A screenshot with sensitive information removed
 
 **Never include passwords, API keys, authentication tokens, or customer data.**
+
+## Common Login Error Messages
+
+### Invalid credentials
+
+If the application reports invalid credentials, verify that the username and password were entered correctly. Do not share the password with support staff.
+
+### Session expired
+
+If your session has expired, sign out and sign in again. If the problem continues, clear the browser cookies and retry.
+
+### Login page not loading
+
+Check your internet connection and try refreshing the page. You can also try another supported browser.
+
+## Support Checklist
+
+Before escalating a login issue, confirm that:
+
+- The user has checked their credentials.
+- Browser cache and cookies were cleared.
+- Another supported browser was tested.
+- No passwords, tokens, API keys, or customer data were included in the support request.
